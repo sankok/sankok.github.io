@@ -11,7 +11,7 @@ This is the personal webpage of Dr. Xianfa Yang, recording the daily life and sc
 
 Keep asking questions, keep seeking for the answers, keep updating the knowledges!
 
-Images https://github.com/sankok/sankok.github.io/edit/master/_pages/about.md#:~:text=images-,20201229193557_5062,-.jpg
+../images/20201229193557_5062.jpg
 Special thanks to the technical support for this webpage.
 
 
