@@ -2,7 +2,7 @@
 title: "Genomic locus of lncRNA-Gm26793 forms an inter-chromosomal interaction with Cubn to ensure proper stem cell differentiation in vitro and in vivo"
 collection: publications
 category: Representative publications
-permalink: /publication/2025-06-03-paper-title-number-4
+permalink: /publication/2025-06-03-Cell_Discovery
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-06-03
 venue: 'Cell Discovery'
