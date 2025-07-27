@@ -7,7 +7,7 @@ excerpt: 'The regulatory mechanisms governing cell fate determination, particula
 date: 2025-07
 venue: 'Advanced Science'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://sankok.github.io/files/Advanced Science_2025_Gastrula‐Premarked Posterior Enhancer Primes Posterior Tissue Development Through.pdf'
+paperurl: 'http://sankok.github.io/files/Advanced Science_2025.pdf'
 citation: 'Chen Y, Tan F, Fang Q, Zhang L, Liao J, Shen P, Qian Y, Wen M, Song R, Fu Y, Xu HJ, Wang R, Li C, Shao Z, Li J, Jing N, Yang X. Gastrula-Premarked Posterior Enhancer Primes Posterior Tissue Development Through Cross-Talk with TGF-β Signaling Pathway. Adv Sci (Weinh). 2025 Jun 29:e00895. doi: 10.1002/advs.202500895. Epub ahead of print. PMID: 40583223.'
 ---
 
